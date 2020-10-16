@@ -1,0 +1,6 @@
+Consumer ID (CID) OPTIONAL,Hit/No-Hit Designator Code,First Name,Middle Name,Last Name,Suffix,Test Social Security Number,Date of Birth,Age,Street Number,Street Name,Street Type Directional Apartment Number,City,State,ZIP Code,Test Telephone Number,Former Address (FA),Former Name (FN),Death Date (DT),Last Reported Employment (ES),Former Employment (EF),Other Identification (OS),Bankruptcy (BP),Collection (CO),Alert Contact (AC),Trade (PT),File Inquiry (FI),Consumer Narrative (CN),File Identification (SS),Fraud Victim Alert,FraudIQ Identity Scan Alerts,Impacted Data Indicator,Address Discrepancy Indicator,FraudIQ SSN Alert (SSN Affirm)
+01A49297B9553C8C03,1,EDNA,M,NNIUTG,,666353451,11/10/1925,,7474,NITPSDHTJ,RD,ANDERSON,SC,29621,,3,1,0,1,0,1,0,0,0,11,1,0,1,,8,N,N,N
+01A492971761F0C000,1,GUY,A,LLJCXY,,666351954,6/28/1961,,7699,PKWWKH,ST,READING,PA,19606,,3,0,0,0,0,1,0,0,0,11,3,0,1,,8,N,N,N
+01A49298454A18FE03,1,JOHN,M,YYRBJH,JR,666358317,2/10/1946,,PO,BOX 7159,,LEBANON,TN,37088,,4,0,0,1,0,1,0,0,0,28,1,0,1,,8,N,N,N
+01A492984353297302,1,MYRTIS,R,JJIWPMKANG,,666131054,5/2/1984,,33433,UNVZZVT NAHM,CT,CYPRESS,TX,77433,,0,1,0,1,0,1,0,0,0,25,4,0,1,,8,N,N,P
+01A492983C7FA46900,1,JOSEPH,D,KKHUTRYCA,,666181004,12/24/1972,,269,XJHBY RQKZT,LN,WAVERLY,TN,37185,,3,0,0,1,0,1,0,0,0,7,1,0,1,,8,N,N,N
